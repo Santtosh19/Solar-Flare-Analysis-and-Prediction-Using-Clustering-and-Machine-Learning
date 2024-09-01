@@ -1,0 +1,2 @@
+# Solar-Flare-Analysis-and-Prediction-Using-Clustering-and-Machine-Learning
+This project focuses on the analysis of solar flares using data from the RHESSI mission. The objective is to cluster solar flares based on their characteristics and then use machine learning to predict the timing of peak flares. The analysis includes data preprocessing, feature engineering, clustering analysis, and time series prediction.
